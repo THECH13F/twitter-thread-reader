@@ -9,3 +9,5 @@ pip install bs4
 ```
 python3 thread.py
 ```
+#Credits
+* https://threadreaderapp.com/
