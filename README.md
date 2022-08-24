@@ -1,5 +1,5 @@
 <h1 align="center"><b>twitter-thread-reader </b></h1>
-<h4 align="center">this is used to read twitter thread with python easily and you can export the thread in html, plan text and JSON format also</h4>
+<h4 align="center">this is used to read twitter thread with python easily and you can export the thread in html, plain text and JSON format also</h4>
 
 ### Installation 
 ```
